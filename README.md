@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning angular.js
 - 💞️ I’m looking to collaborate on web projects and databases
 - 📫 my mail is gillsimranjot91@gmail.com
+- i have worked on some websites such as http://arjangillsounds.com/ and http://api.arjangillsounds.com/
 
 <!---
 gursimrangillnotinsane/gursimrangillnotinsane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
